@@ -6,7 +6,7 @@ A platform for applications, whatever language they are written in.
 
 | Organization | What it holds |
 | --- | --- |
-| [way-station](https://github.com/way-station) | Application projects: tasuki, Trabelle, travel-prep-guide, Traveling, and private projects |
+| [way-station](https://github.com/way-station) | Application projects: tasuki, Trabelle |
 
 ### Getting started
 
